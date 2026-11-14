@@ -37,8 +37,8 @@ I'm building my technical foundation while exploring how organizations manage se
 
 ### Connect With Me
 
-- LinkedIn: www.linkedin.com/in/
-- Portfolio: adnanktechs.com
+- LinkedIn: www.linkedin.com/in
+- Portfolio: https://adnanktechs.com
 - Email: adnanksec@gmail.com
 
 Always learning. Always building. Always improving.
